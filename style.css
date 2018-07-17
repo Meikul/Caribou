@@ -1,0 +1,11 @@
+body * {
+  box-sizing: border-box;
+}
+
+.btn-group{
+  width: 100%;
+}
+
+.btn-group .btn{
+  width: 25%;
+}
